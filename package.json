@@ -1,6 +1,6 @@
 {
   "name": "markup-kit",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Mini markup language parser",
   "main": "lib/markup.js",
   "engines": {
