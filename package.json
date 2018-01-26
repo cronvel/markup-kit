@@ -1,0 +1,45 @@
+{
+  "name": "markup-kit",
+  "version": "0.0.0",
+  "description": "Mini markup language parser",
+  "main": "lib/markup.js",
+  "engines": {
+    "node": ">=6.12.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^4.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cronvel/markup-kit.git"
+  },
+  "keywords": [
+    "markup",
+    "parser",
+    "html"
+  ],
+  "author": "Cédric Ronvel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cronvel/markup-kit/issues"
+  },
+  "config": {
+    "tea-time": {
+      "coverDir": [
+        "lib"
+      ]
+    }
+  },
+  "copyright": {
+    "title": "Markup Kit",
+    "years": [
+      2018
+    ],
+    "owner": "Cédric Ronvel"
+  }
+}
